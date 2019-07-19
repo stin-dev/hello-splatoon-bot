@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hello-splatoon-bot/static/css/main.19393e92.chunk.css",
+    "main.js": "/hello-splatoon-bot/static/js/main.ea2d0800.chunk.js",
+    "main.js.map": "/hello-splatoon-bot/static/js/main.ea2d0800.chunk.js.map",
+    "runtime~main.js": "/hello-splatoon-bot/static/js/runtime~main.3ad133a6.js",
+    "runtime~main.js.map": "/hello-splatoon-bot/static/js/runtime~main.3ad133a6.js.map",
+    "static/js/2.b41502e9.chunk.js": "/hello-splatoon-bot/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/hello-splatoon-bot/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/hello-splatoon-bot/index.html",
+    "precache-manifest.e75cd21dcb9d4a786fc19f708a81171b.js": "/hello-splatoon-bot/precache-manifest.e75cd21dcb9d4a786fc19f708a81171b.js",
+    "service-worker.js": "/hello-splatoon-bot/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/hello-splatoon-bot/static/css/main.19393e92.chunk.css.map",
+    "static/media/logo.svg": "/hello-splatoon-bot/static/media/logo.5d5d9eef.svg"
+  }
+}
