@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "228c74380ec46491b42bbc8796ec8446",
+    "revision": "cb9a5b9636913b2ec8b6631b7fd582ba",
     "url": "/hello-splatoon-bot/index.html"
   },
   {
-    "revision": "9633a777d530dc93816e",
+    "revision": "c9c47adf473a0fa8f216",
     "url": "/hello-splatoon-bot/static/css/main.ace5c346.chunk.css"
   },
   {
-    "revision": "353f92c5750fdc8dea98",
-    "url": "/hello-splatoon-bot/static/js/2.12d3875a.chunk.js"
+    "revision": "61db7edf98e1ff2f9132",
+    "url": "/hello-splatoon-bot/static/js/2.eb0c4185.chunk.js"
   },
   {
-    "revision": "9633a777d530dc93816e",
-    "url": "/hello-splatoon-bot/static/js/main.9ab1b0b5.chunk.js"
+    "revision": "c9c47adf473a0fa8f216",
+    "url": "/hello-splatoon-bot/static/js/main.ff9e2429.chunk.js"
   },
   {
     "revision": "90a3714128b0ba11d9e5",
