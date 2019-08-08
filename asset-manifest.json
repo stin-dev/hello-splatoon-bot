@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hello-splatoon-bot/static/css/main.ace5c346.chunk.css",
-    "main.js": "/hello-splatoon-bot/static/js/main.7db0ae95.chunk.js",
-    "main.js.map": "/hello-splatoon-bot/static/js/main.7db0ae95.chunk.js.map",
+    "main.js": "/hello-splatoon-bot/static/js/main.7700f03f.chunk.js",
+    "main.js.map": "/hello-splatoon-bot/static/js/main.7700f03f.chunk.js.map",
     "runtime~main.js": "/hello-splatoon-bot/static/js/runtime~main.3ad133a6.js",
     "runtime~main.js.map": "/hello-splatoon-bot/static/js/runtime~main.3ad133a6.js.map",
     "static/js/2.eb0c4185.chunk.js": "/hello-splatoon-bot/static/js/2.eb0c4185.chunk.js",
     "static/js/2.eb0c4185.chunk.js.map": "/hello-splatoon-bot/static/js/2.eb0c4185.chunk.js.map",
     "index.html": "/hello-splatoon-bot/index.html",
-    "precache-manifest.b21ebdbc220f313f1dcee7506684cf03.js": "/hello-splatoon-bot/precache-manifest.b21ebdbc220f313f1dcee7506684cf03.js",
+    "precache-manifest.c2fee64bbd3d28beb49161ae8cc9f216.js": "/hello-splatoon-bot/precache-manifest.c2fee64bbd3d28beb49161ae8cc9f216.js",
     "service-worker.js": "/hello-splatoon-bot/service-worker.js",
     "static/css/main.ace5c346.chunk.css.map": "/hello-splatoon-bot/static/css/main.ace5c346.chunk.css.map",
     "static/media/tanimoto6.jpg": "/hello-splatoon-bot/static/media/tanimoto6.364f4822.jpg"
