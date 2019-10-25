@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hello-splatoon-bot/precache-manifest.049fde0e1ed54a93fd3c87e75ba3ece5.js"
+  "/hello-splatoon-bot/precache-manifest.e1fb0cead4262e4e43f04c37c723a0e1.js"
 );
 
 self.addEventListener('message', (event) => {
