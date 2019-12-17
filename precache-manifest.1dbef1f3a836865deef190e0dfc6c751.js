@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e8fbd2dc4e99fb18dde79347319d2ff",
+    "revision": "a966b01c076593c71f695c99c2cca966",
     "url": "/hello-splatoon-bot/index.html"
   },
   {
